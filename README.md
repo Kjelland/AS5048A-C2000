@@ -1,0 +1,2 @@
+# AS5048A-C2000
+AS5048A SPI library for the TI LaunchXL-F28027F
