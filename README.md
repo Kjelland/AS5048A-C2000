@@ -1,7 +1,7 @@
 # AS5048A-C2000
 AS5048A SPI library for the TI LaunchXL-F28027F
 
-This library written in C was created using the Texas Instruments Launchpad: LaunchXL-F28027F together with Code Composer Studio (CCS) and uses the controlSUITE libraries. It was made for the LaunchXL-F28027F, but it would work on other board as well. Remember to check the GPIO pin configuration.
+This library written in C was created using the Texas Instruments Launchpad: LaunchXL-F28027F together with Code Composer Studio (CCS) and uses the controlSUITE libraries and is programmed on the Flash memory. It was made for the LaunchXL-F28027F, but it would work on other board as well. Remember to check the GPIO pin configuration.
 
 Based on the ZoetropeLabs/AS5048A-Arduino library for arduino.
 
